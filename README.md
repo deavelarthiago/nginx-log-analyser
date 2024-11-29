@@ -60,12 +60,15 @@ Example command:
 Fork the project.
 
 Create a branch for your feature:
+   ```bash
    git checkout -b `my-feature`
 
 Make your changes and commit:
+   ```bash
    git commit -m "Added feature X"
 
 Push your changes:
+   ```bash
    git push origin my-feature
 
 Open a Pull Request.
