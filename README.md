@@ -29,14 +29,14 @@ This script is lightweight, easy to use, and ideal for quickly analyzing log fil
 1. Clone or download this repository and make the script executable:
    chmod +x analyze_logs.sh
 
-2. Run the script, passing the Nginx log file as an argument:
+3. Run the script, passing the Nginx log file as an argument:
    ./analyze_logs.sh <log_file>
 
-3. Replace <log_file> with the path to your Nginx access log file (e.g., access.log).
+5. Replace <log_file> with the path to your Nginx access log file (e.g., access.log).
 Example command:
    ./analyze_logs.sh access.log
 
-4. View the output in your terminal, which includes:
+6. View the output in your terminal, which includes:
 - Top 5 IP addresses;
 - Top 5 requested paths;
 - Top 5 response status codes;
