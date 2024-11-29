@@ -59,15 +59,15 @@ Example command:
 
 Fork the project.
 
-Create a branch for your feature:
+1. Create a branch for your feature:
    ```bash
    git checkout -b `my-feature`
 
-Make your changes and commit:
+2. Make your changes and commit:
    ```bash
    git commit -m "Added feature X"
 
-Push your changes:
+3. Push your changes:
    ```bash
    git push origin my-feature
 
